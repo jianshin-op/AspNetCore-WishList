@@ -19,7 +19,4 @@
     <None Remove="Views\Home\" />
     <None Remove="Controllers\" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Remove="Views\Shared\Error.cshtml" />
-  </ItemGroup>
 </Project>
