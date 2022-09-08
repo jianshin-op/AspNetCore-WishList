@@ -13,7 +13,7 @@ namespace WishList.Controllers
         // GET: /<controller>/
         public IActionResult Index()
         {
-            return View(Index);
+            return View();
         }
     }
 }
